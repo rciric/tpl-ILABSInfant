@@ -1,0 +1,18 @@
+{
+  "Authors": ["Akiyama LF", "Richards TR", "Imada T", "Dager SR", "Wroblewski L", "Kuhl PK"],
+  "Acknowledgements": "Curated and added to TemplateFlow by Ciric R and Esteban O",
+  "BIDSVersion": "1.1.0",
+  "HowToAcknowledge": "The publication indexed by the ReferencesAndLinks field should be referenced when using this atlas.",
+  "Identifier": "ILABSInfant",
+  "Name": "Age-specific average head template for typically developing 6-month-old infants",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1371/journal.pone.0073821"],
+  "TemplateFlowVersion": "1.0.0",
+  "res": {
+    "01": {
+      "origin": [-96.0, -134.0, -72.0],
+      "shape": [195, 233, 159],
+      "zooms": [1.0, 1.0, 1.0]
+    }
+  }
+}
